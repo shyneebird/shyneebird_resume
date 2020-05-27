@@ -1,0 +1,150 @@
+body {
+  color: #40514E;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+h1 {
+  color: #df7861;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #df7861;
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #ecb390;
+  font-family: 'Playfair Display', serif;
+}
+
+hr {
+  border: dotted #ecb390 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #df7861;
+  font-family: 'roboto', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ecb390;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  width: 60%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-container {
+  background-color: #fcf8e8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #fcf8e8;
+  padding: 50px 0 20px;
+}
+
+
+.middle-container {
+  margin: 80px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.btn {
+  width: 40%;
+  margin: 50px auto 60px;
+  font-family: roboto;
+  font-weight: bold;
+  color: #FFFFFF;
+  font-size: 19px;
+  padding: 10px 25px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  background: #ecb390;
+}
+
+.btn:hover {
+  color: #FFFFFF;
+  background: #ecdfc8;
+}
+
+.contact-me {
+  padding-bottom: 60px;
+}
+
+.trademark {
+  color: #ecdfc8;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  right: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.clapper {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.dog {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
